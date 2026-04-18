@@ -36,22 +36,30 @@
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,dotnet,apache,nginx&perline=12" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,dotnet,nginx&perline=12" alt="Backend" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" title="Apache" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" title="AdonisJS" />
 </p>
 
 <p align="center"><b>Databases</b></p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,mariadb&perline=12" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&perline=12" alt="Databases" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" title="MariaDB" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" title="InfluxDB" />
 </p>
 
 <p align="center"><b>DevOps & Cloud</b></p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,git,azure,linux,ubuntu,debian,vagrant,rabbitmq&perline=12" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,git,azure,linux,ubuntu,debian,rabbitmq&perline=12" alt="DevOps" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" title="Vagrant" />
 </p>
 
 <p align="center"><b>Tools</b></p>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=vscode,vim,postman,npm,wordpress,arduino,androidstudio,windows,apple,figma&perline=12" alt="Tools" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" title="Composer" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" title="Insomnia" />
+    <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" title="Jira" />
 </p>
 
 <br/>
