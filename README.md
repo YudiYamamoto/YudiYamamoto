@@ -71,8 +71,8 @@
 <h2 align="left">GitHub Stats 📊</h2>
 
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YudiYamamoto&show_icons=true&hide_border=true&bg_color=000000&title_color=0038F7&text_color=ffffff&icon_color=0038F7" alt="YudiYamamoto's stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudiYamamoto&layout=compact&hide_border=true&bg_color=000000&title_color=0038F7&text_color=ffffff" alt="YudiYamamoto's top languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YudiYamamoto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=0038F7&text_color=ffffff&icon_color=0038F7" alt="YudiYamamoto's stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudiYamamoto&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=0038F7&text_color=ffffff" alt="YudiYamamoto's top languages" />
 </div>
 
 <br/>
