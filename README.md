@@ -30,7 +30,7 @@
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,cs,cpp,r,bash,html,css,md&perline=12" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,cs,cpp,r,bash&perline=12" alt="Languages" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
