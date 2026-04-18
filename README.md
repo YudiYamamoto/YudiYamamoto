@@ -12,6 +12,10 @@
 
 <br/>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/YudiYamamoto/YudiYamamoto/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
+
 <!-- <h2 align="left">About me 👨‍💻</h2>
 
 - 🚀 Full-stack web developer passionate about building scalable applications
@@ -83,8 +87,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/YudiYamamoto/YudiYamamoto/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
-
